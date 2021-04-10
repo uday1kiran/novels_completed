@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6763d2c0-e306-434e-b8da-e45f7ec161c0</dc:identifier>
+        <dc:title>Easy Learning Data Structures &amp; Algorithms Python 3: Graphically learn data structures and algorithms better than before</dc:title>
+        <dc:creator opf:file-as="hu, yang" opf:role="aut">yang hu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-21T18:30:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07S922MLV</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;yang hu&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-04-10T11:43:24.485663+00:00"/>
+        <meta name="calibre:title_sort" content="Easy Learning Data Structures &amp; Algorithms Python 3: Graphically learn data structures and algorithms better than before"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
